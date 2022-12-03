@@ -368,7 +368,7 @@ math-field:focus-within {
 ;;
 ;; ### Extracting MathJSON
 ;;
-;; The following example example pulls both LaTeX and MathJSON from a
+;; The following example pulls both LaTeX and MathJSON from a
 ;; `Mathfield`.
 ;;
 ;; First, create a `reagent/atom` to store the values:
